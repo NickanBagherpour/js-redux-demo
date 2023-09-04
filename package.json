@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "index" : "node index",
-    "nested" : "node nested-state",
+    "index": "node index",
+    "nested": "node nested-state",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "immer": "^10.0.2",
     "redux": "^4.2.1"
   }
 }
