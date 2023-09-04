@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "index" : "node index",
+    "nested" : "node nested-state",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
